@@ -1,0 +1,82 @@
+[
+    {
+      "numero": 1,
+      "merkki": "Menopeli",
+      "malli": "GT",
+      "hinta": 25000,
+      "teho": 10,
+      "lisävarusteet": [
+        "kahvinlämmitin",
+        "korjaussetti",
+        "tutka"
+      ],
+      "yksityiskohdat": {
+        "voimanlähde": "Bensiini",
+        "kulutusSatasella": 1,
+        "huomautus": "-"
+      }
+    },
+    {
+      "numero": 2,
+      "merkki": "Ajokki",
+      "malli": "VIP",
+      "hinta": 200000,
+      "teho": 10,
+      "lisävarusteet": [
+        "takuu",
+        "korjaussetti",
+        "kello"
+      ],
+      "yksityiskohdat": {
+        "voimanlähde": "hybridi",
+        "kulutusSatasella": 5,
+        "huomautus": "laadukas"
+      }
+    },
+    {
+      "numero": 3,
+      "merkki": "Kaara",
+      "malli": "XL",
+      "hinta": 15000,
+      "teho": 10,
+      "lisävarusteet": [
+        "kahvinlämmitin",
+        "tutka",
+        "kello"
+      ],
+      "yksityiskohdat": {
+        "voimanlähde": "vety",
+        "kulutusSatasella": 3,
+        "huomautus": "ei huomauttamista"
+      }
+    },
+    {
+      "numero": 4,
+      "merkki": "Kaara",
+      "malli": "XL",
+      "hinta": 200000,
+      "teho": 10,
+      "lisävarusteet": [
+        "nopeusmittari",
+        "koukku",
+        "kahvinlämmitin"
+      ],
+      "yksityiskohdat": {
+        "voimanlähde": "hybridi",
+        "kulutusSatasella": 3,
+        "huomautus": "matalapäästöinen"
+      }
+    },
+    {
+      "numero": 5,
+      "merkki": "Biili",
+      "malli": "chrome",
+      "hinta": 36000,
+      "teho": 370,
+      "lisävarusteet": [
+        "korjaussetti",
+        "takuu",
+        "tutka"
+      ]
+    }
+  ] 
